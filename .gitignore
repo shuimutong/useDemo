@@ -43,3 +43,11 @@ mapdb-quickstart/.classpath
 mapdb-quickstart/.gitignore
 mapdb-quickstart/.project
 mapdb-quickstart/.settings/
+
+
+#log4j-learn
+log4j-learn/bin/
+log4j-learn/.classpath
+log4j-learn/.gitignore
+log4j-learn/.project
+log4j-learn/.settings/
